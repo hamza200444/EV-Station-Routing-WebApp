@@ -101,9 +101,9 @@ GET /find_ev?lat={latitude}&lon={longitude}
 ---
 
 ## ScreenShots
-<img width="710" height="362" alt="image" src="https://github.com/user-attachments/assets/dc7ce0fb-56d6-43fc-98f5-8541292a9284" />
-<img width="710" height="131" alt="image" src="https://github.com/user-attachments/assets/5d76e157-696e-4e51-86ce-85274c8c737a" />
-<img width="710" height="368" alt="image" src="https://github.com/user-attachments/assets/493a7a71-e032-4b5a-b9ef-faea99348a94" />
+<img width="300" height="362" alt="image" src="https://github.com/user-attachments/assets/dc7ce0fb-56d6-43fc-98f5-8541292a9284" />
+<img width="300" height="131" alt="image" src="https://github.com/user-attachments/assets/5d76e157-696e-4e51-86ce-85274c8c737a" />
+<img width="300" height="368" alt="image" src="https://github.com/user-attachments/assets/493a7a71-e032-4b5a-b9ef-faea99348a94" />
 <img width="710" height="486" alt="image" src="https://github.com/user-attachments/assets/f9ac780c-eb24-4d2e-ab7f-9ee887f30ff5" />
 
 ## 📍 Dataset
